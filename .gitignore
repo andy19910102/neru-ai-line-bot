@@ -1,0 +1,9 @@
+.env
+node_modules
+
+# ngrok
+ngrok
+ngrok.exe
+
+# .DS_store
+.DS_Store

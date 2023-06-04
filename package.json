@@ -1,0 +1,36 @@
+{
+    "name": "neru-ai-line-bot",
+    "version": "1.0.0",
+    "description": "The Neru AI LINE Bot Application is a AI chatbot, designed specifically for the LINE platform. Developed using the Neru Monorepo server framework",
+    "type": "module",
+    "main": "src/index.js",
+    "author": "Huang An Sheng (https://github.com/andy19910102)",
+    "homepage": "https://andy19910102.github.io/neru-ai-line-bot",
+    "license": "MIT",
+    "keywords": [
+        "neru",
+        "monorepo",
+        "Neru Monorepo",
+        "openai",
+        "ai",
+        "line",
+        "linebot"
+    ],
+    "scripts": {
+        "dev": "nodemon",
+        "start": "node ."
+    },
+    "dependencies": {
+        "@line/bot-sdk": "^7.5.2",
+        "@nerujs/express": "^1.0.0",
+        "dotenv": "^16.1.4",
+        "express": "^4.18.2",
+        "neru": "^1.0.0",
+        "openai": "^3.2.1"
+    },
+    "devDependencies": {
+        "@types/express": "^4.17.14",
+        "@types/node": "^18.11.9",
+        "nodemon": "^2.0.20"
+    }
+}
