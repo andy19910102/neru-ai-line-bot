@@ -45,5 +45,12 @@ Huang An Sheng
 ## Contribute
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
+## References
+
+- [Designing an OpenAI-Enhanced LINE Bot with the Neru Server Framework](https://medium.com/@enshenghuang/designing-an-openai-enhanced-line-bot-with-the-neru-server-framework-117154205249)
+- [Neru Monorepo](https://github.com/ghostdevv/neru)
+- [LINE Messaging API SDK for nodejs](https://line.github.io/line-bot-sdk-nodejs/)
+- [OpenAI Documentation](https://platform.openai.com/docs/introduction)
+
 ## License
 The code in this project is licensed under the MIT license.
